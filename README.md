@@ -2,7 +2,7 @@
 
 As part of my journey in honing my front-end development skills, I undertook a project to create a simplified version of the iconic YouTube platform using HTML and CSS. The goal was to showcase my proficiency in building responsive and visually appealing user interfaces.
 
-## Key Features:
+## Key Features
 
 ### Responsive Design:
 
